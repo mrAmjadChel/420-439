@@ -29,6 +29,6 @@ class PrimeListTest(unittest.TestCase):
         self.assertTrue(is_prime)       
 
     def test_give_47_53_59_is_prime(self):
-        prime_list = [47, 53, 59]
+        prime_list = [47, 53, 97]
         is_prime = is_prime_list(prime_list)
         self.assertTrue(is_prime)       
