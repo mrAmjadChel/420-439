@@ -1,4 +1,4 @@
-from fizzbuzz.fizzbuzz import fizzbuzz
+from fizzbuz.fizzbuz import fizzbuzz
 
 import unittest
 
